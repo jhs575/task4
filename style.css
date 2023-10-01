@@ -1,0 +1,96 @@
+body{
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}    
+.logo{
+    display: flex;
+    justify-content: center;
+    margin:70px auto 0;
+    max-width: 620px;
+    max-height: 285px;
+}
+
+.msg{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.msg .msg1{
+    width: 75%;
+    max-width: 620px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cRed{
+    color: red;
+}
+.fW8{
+    font-weight: 600;
+}
+.middle{
+    text-align: center;
+}
+.h1{
+    background-color: #352e4a;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+.w100{
+    width: 100%;
+}
+.top30{
+    margin-top: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 60%;
+    max-width: 520px;
+}
+
+th, td {
+    border: 0px solid #000000;
+    padding: 8px;
+}
+.border{
+    border: 1px solid #d5d4d4;
+    padding: 8px;
+}
+.bgGray{
+    background-color:#ececed;
+}
+
+.mgsFN{
+    width: 75%;
+    max-width: 620px;
+    margin: 40px auto 40px;
+}
+.paybtn{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    background-color: #2e0e4a;
+    color: white;
+    border-radius: 1rem;
+    padding-top: 3px;
+    width: 15%;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.lstMsg{
+    width: 75%;
+    max-width: 620px;
+    margin: auto;
+    margin-bottom: 150px
+}
+.own{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #0015ff;
+    cursor: pointer;
+    font-weight: 700;
+}
